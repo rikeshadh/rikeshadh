@@ -54,8 +54,6 @@ Platforms
 🎓 Education
 
 BSc (Hons) Computing — Islington College, Kathmandu (2024 – Present)
-In affiliation with London Metropolitan University
-
 
 📜 Certifications
 
@@ -66,14 +64,6 @@ AWS Academy Graduate — Machine Learning Foundations
 AWS Academy Graduate — Machine Learning for NLP
 Code Management with VCS — Islington College
 UI/UX with Figma — Islington College
-
-
-
-🏆 Achievements
-
-
-Presented at the FYP & IoT Showcase, Islington College (Jul 2026)
-Participant, Run For Education, Ekal Yuva Nepal (Feb 2023)
 
 
 
@@ -99,7 +89,4 @@ Participant, Run For Education, Ekal Yuva Nepal (Feb 2023)
   <a href="https://github.com/rikeshadh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rikeshadh&style=flat-square&color=blue" alt="Profile views" />
 </p>
