@@ -54,10 +54,6 @@
 
 - [AWS Academy Graduate — Machine Learning for NLP](https://www.credly.com/badges/418e18d5-13ae-4260-a8ad-b3254e979a31/linked_in_profile)
 
-- [Code Management with VCS — Islington College](https://certificate.islingtoncollege.edu.np/certificate/verify/ICKCP4A2401194TDZF)
-
-- [UI/UX with Figma — Islington College](https://certificate.islingtoncollege.edu.np/certificate/verify/ICKCP4A240119OIGT1)
-
 ---
 
 ### 📊 GitHub Stats
