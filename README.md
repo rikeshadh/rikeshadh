@@ -56,19 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rikeshadh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rikeshadh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rikeshadh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
