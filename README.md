@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rikesh Adhikari</h1>
+<h1 align="center">Rikesh Adhikari</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Embedded+Systems+%2B+Hardware+Security;Turning+ideas+into+working+products" alt="Typing SVG" />
 </p>
@@ -41,18 +41,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
-
----
-
-### 📜 Certifications
-
-- [AWS Academy Graduate — Cloud Foundations](https://www.credly.com/badges/dabf77b5-5934-49e5-9a2c-a4a315f9505e/linked_in_profile)
-
-- [AWS Academy Graduate — Data Engineering](https://www.credly.com/badges/4b39043a-b1f6-47ce-9b78-0eb42965c620/linked_in_profile)
-
-- [AWS Academy Graduate — Machine Learning Foundations](https://www.credly.com/badges/ee89f2dc-012f-4c46-86c5-398b1173730d/linked_in_profile)
-
-- [AWS Academy Graduate — Machine Learning for NLP](https://www.credly.com/badges/418e18d5-13ae-4260-a8ad-b3254e979a31/linked_in_profile)
 
 ---
 
